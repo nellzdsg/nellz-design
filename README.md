@@ -1,2 +1,2 @@
 # nellz-design
-first project, nellz design site
+first project, nellz design site!
