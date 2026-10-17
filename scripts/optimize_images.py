@@ -10,7 +10,7 @@
   * портрет   -> assets/img/ui/nellz-portrait-640.webp / -1000.webp
   * обложка   -> assets/img/ui/youtube-cover-thumb.webp / -full.webp
   * значок    -> favicon.ico, favicon-32.png, apple-touch-icon.png (из brand-monogram.png)
-  * og-image  -> assets/img/og-image.jpg (1200x630, для превью ссылки в соцсетях)
+  * og-image  -> assets/img/ui/og-image.jpg (1200x630, для превью ссылки в соцсетях)
 
 Оригиналы не изменяются. Скрипт идемпотентный — можно запускать повторно.
 """
