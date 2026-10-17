@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nellzdsg.github.io/nellz-design/sitemap.xml

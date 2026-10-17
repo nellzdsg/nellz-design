@@ -1,0 +1,12 @@
+# Единый стиль переводов строк в репозитории
+* text=auto eol=lf
+
+# Бинарные файлы: git не должен их конвертировать и диффить как текст
+*.webp binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.woff2 binary
+*.tgs binary
